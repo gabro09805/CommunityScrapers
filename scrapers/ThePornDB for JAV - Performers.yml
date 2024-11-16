@@ -1,7 +1,7 @@
 name: ThePornDB for JAV - Performers (NEEDS EDITING)
 performerByName:
   action: scrapeJson
-  queryURL: https://api.theporndb.net/performers?parse={}&per_page=10
+  queryURL: https://api.theporndb.net/performers?q={}&per_page=10
   scraper: performerSearch
 performerByURL:
   - action: scrapeJson
